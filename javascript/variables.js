@@ -37,3 +37,39 @@ multiplyMe *= 11;
 //multiply the value by 11
 quarterMe /= 4
 // divide by 4
+
+//--------------------------------------------------------
+
+let a = 10;
+a++;
+console.log(a); // Output: 11
+// increment by 1 ++
+
+let b = 20;
+b--;
+console.log(b); // Output: 19
+// decrement by 1 --
+
+//-----------------
+
+let myPet = 'armadillo';
+console.log('I own a pet ' + myPet + '.'); 
+// Output: 'I own a pet armadillo.'
+
+//---------------------------------
+
+const myPet = 'armadillo';
+console.log(`I own a pet ${myPet}.`);
+// Output: I own a pet armadillo.
+
+//--------------------------------
+
+const unknown1 = 'foo';
+console.log(typeof unknown1); // Output: string
+
+const unknown2 = 10;
+console.log(typeof unknown2); // Output: number
+
+const unknown3 = true; 
+console.log(typeof unknown3); // Output: boolean
+
