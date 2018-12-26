@@ -96,3 +96,20 @@ if (favoritePhrase) {
 } else {
   console.log('This string is definitely empty.');
 }
+
+// ------------------------------------------------
+
+
+// Truthy and Falsy Assignment
+
+let defaultName;
+if (username) {
+  defaultName = username;
+} else {
+  defaultName = 'Stranger';
+}
+
+let defaultName = username || 'Stranger';
+
+// When running default name checks the left hand condtion first if its true then username prints to the console. Otherwise Stranger (false)
+// is printed.

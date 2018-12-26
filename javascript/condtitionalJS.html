@@ -143,3 +143,42 @@ if (numberOfApples){
 
 // Prints 'No apples left!'
 The condition evaluates to false because the value of the numberOfApples is 0. Since 0 is a falsy value, the code block in the else statement will run.
+
+Truthy and Falsy Assignment
+Truthy and falsy evaluations open a world of short-hand possibilities!
+
+Say you have a website and want to take a user's username to make a personalized greeting. Sometimes, the user does not have an account, making the username variable falsy. The code below checks if username is defined and assigns a default string if it is not:
+
+let defaultName;
+if (username) {
+  defaultName = username;
+} else {
+  defaultName = 'Stranger';
+}
+If you combine your knowledge of logical operators you can use a short-hand for the code above. In a boolean condition, JavaScript assigns the truthy value to a variable if you use the || operator in your assignment:
+
+let defaultName = username || 'Stranger';
+Because || or statements check the left-hand condition first, the variable defaultName will be assigned the actual value of username if is truthy, and it will be assigned the value of 'Stranger' if username is falsy. This concept is also referred to as short-circuit evaluation.
+
+Ternary Operator
+In the spirit of using short-hand syntax, we can use a ternary operator to simplify an if...else statement.
+
+Take a look at the if...else statement example:
+
+let isNightTime = true;
+
+if (isNightTime) {
+  console.log('Turn on the lights!');
+} else {
+  console.log('Turn off the lights!');
+}
+We can use a ternary operator to perform the same functionality:
+
+isNightTime ? console.log('Turn on the lights!') : console.log('Turn off the lights!');
+In the example above:
+
+The condition, isNightTime, is provided before the ?.
+Two expressions follow the ? and are separated by a colon :.
+If the condition evaluates to true, the first expression executes.
+If the condition evaluates to false, the second expression executes.
+Like if...else statements, ternary operators can be used for conditions which evaluate to true or false.
