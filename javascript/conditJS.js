@@ -113,3 +113,37 @@ let defaultName = username || 'Stranger';
 
 // When running default name checks the left hand condtion first if its true then username prints to the console. Otherwise Stranger (false)
 // is printed.
+
+// Ternary Operator replacing the if else statment 
+
+let isLocked = false;
+
+isLocked ? console.log('You will need a key to open the door.') : console.log('You will not need a key to open the door.');
+
+// can also be written in the if else way 
+
+if (isLocked) {
+  console.log('You will need a key to open the door');
+} else {
+  console.log('You will not need a key to open the door ');
+}
+
+let isCorrect = true;
+
+isCorrect ? console.log('Correct!') : console.log('Incorrect!');
+
+if (isCorrect) {
+  console.log('Correct')
+} else {
+  console.log ( 'Incorrect!');
+}
+
+let favoritePhrase = 'Love That!';
+
+favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!");
+
+if (favoritePhrase){
+  console.log('I Love that!')
+} else {
+  console.log('I dont love that!');
+}
