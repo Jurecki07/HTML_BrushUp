@@ -184,3 +184,22 @@ switch (athleteFinalPosition){
     
     
 }
+
+// Using Arrow functions //
+
+const plantNeedsWater = function(day) {
+    if (day === 'Wednesday') {
+        return true;
+    } else {
+        return false;
+    }
+};
+// Same function as above but just using the arrow function //
+const plantNeedsWater = (day) => {
+    if (day === 'Wednesday'){
+        return true;
+    } else {
+        return false;
+
+    }
+};
