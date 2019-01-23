@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="404">
+              <caret line="202" lean-forward="true" selection-start-line="202" selection-end-line="202" />
             </state>
           </provider>
         </entry>
@@ -58,9 +58,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1475" />
-    <option name="width" value="1972" />
-    <option name="height" value="1447" />
+    <option name="x" value="1540" />
+    <option name="y" value="62" />
+    <option name="width" value="1988" />
+    <option name="height" value="1219" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -154,19 +155,19 @@
       <workItem from="1547528424372" duration="1050000" />
       <workItem from="1547657570883" duration="1198000" />
       <workItem from="1548009337905" duration="758000" />
-      <workItem from="1548010107701" duration="2374000" />
+      <workItem from="1548010107701" duration="4277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10806000" />
+    <option name="totallyTimeSpent" value="12709000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1475" y="0" width="1972" height="1447" extended-state="0" />
+    <frame x="1540" y="62" width="1988" height="1219" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.113236815" />
-      <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" visible="true" weight="0.113236815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496875" visible="true" weight="0.11230769" />
+      <window_info id="Structure" order="1" sideWeight="0.503125" side_tool="true" visible="true" weight="0.11230769" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -176,7 +177,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32608697" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3962264" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32998747" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -264,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="404">
+          <caret line="202" lean-forward="true" selection-start-line="202" selection-end-line="202" />
         </state>
       </provider>
     </entry>
