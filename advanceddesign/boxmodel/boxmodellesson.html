@@ -301,5 +301,41 @@ In the example above, if any of the paragraph content overflows (perhaps a user 
 The overflow property is set on a parent element to instruct a web browser how to render child elements. For example, if a div’s overflow property is set to scroll, all children of this div will display overflowing content with a scroll bar.
 --------------------------------------------------------------------------------------
 
+Resetting Defaults
+All major web browsers have a default stylesheet they use in the absence of an external stylesheet. These default stylesheets are known as user agent stylesheets. In this case, the term "user agent" is a technical term for the browser.
+
+User agent stylesheets often have default CSS rules that set default values for padding and margin. This affects how the browser displays HTML elements, which can make it difficult for a developer to design or style a web page.
+
+Many developers choose to reset these default values so that they can truly work with a clean slate.
+
+* {
+margin: 0;
+padding: 0;
+}
+The code in the example above resets the default margin and padding values of all HTML elements. It is often the first CSS rule in an external stylesheet.
+
+Note that both properties are both set to 0. When these properties are set to 0, they do not require a unit of measurement.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Visibility
+Elements can be hidden from view with the visibility property.
+
+The visibility property can be set to one of the following values:
+
+hidden — hides an element.
+visible — displays an element.
+<ul>
+    <li>Explore</li>
+    <li>Connect</li>
+    <li class="future">Donate</li>
+    <ul>
+        .future {
+        visibility: hidden;
+        }
+        In the example above, the list item with a class of future will be hidden from view in the browser.
+
+        Keep in mind, however, that users can still view the contents of the list item (e.g., Donate) by viewing the source code in their browser. Furthermore, the web page will only hide the contents of the element. It will still leave an empty space where the element is intended to display.
+
+        Note: What's the difference between display: none and visibility: hidden? An element with display: none will be completely removed from the web page. An element with visibility: hidden, however, will not be visible on the web page, but the space reserved for it will.
 
 
