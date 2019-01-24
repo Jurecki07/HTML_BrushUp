@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920447b4-1e0e-4b55-b33e-73f6d68dc079" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanceddesign/boxmodel/boxmodel.css" beforeDir="false" afterPath="$PROJECT_DIR$/advanceddesign/boxmodel/beforeLesson/boxmodel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanceddesign/boxmodel/boxmodel.html" beforeDir="false" afterPath="$PROJECT_DIR$/advanceddesign/boxmodel/beforeLesson/boxmodel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceddesign/changingBoxModel/lesson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceddesign/display&amp;postining/flow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,18 +20,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="boxmodellesson.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html">
+      <file leaf-file-name="lesson.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanceddesign/changingBoxModel/lesson.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="356" column="58" selection-start-line="356" selection-start-column="58" selection-end-line="356" selection-end-column="58" />
+            <state relative-caret-position="478">
+              <caret line="93" column="163" selection-start-line="93" selection-start-column="163" selection-end-line="93" selection-end-column="163" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tahoe.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.html">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="flow.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanceddesign/display&amp;postining/flow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -58,6 +62,11 @@
         <option value="$PROJECT_DIR$/advanceddesign/lessons.html" />
         <option value="$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html" />
         <option value="$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.html" />
+        <option value="$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.css" />
+        <option value="$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.css" />
+        <option value="$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.html" />
+        <option value="$PROJECT_DIR$/advanceddesign/changingBoxModel/lesson.html" />
+        <option value="$PROJECT_DIR$/advanceddesign/display&amp;postining/flow.html" />
       </list>
     </option>
   </component>
@@ -101,14 +110,7 @@
               <item name="HTML_BrushUp_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_BrushUp_2" type="462c0819:PsiDirectoryNode" />
               <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
-              <item name="boxmodel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_BrushUp_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_BrushUp_2" type="462c0819:PsiDirectoryNode" />
-              <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
-              <item name="boxmodel" type="462c0819:PsiDirectoryNode" />
-              <item name="afterLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="display&amp;postining" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +132,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/advanceddesign/boxmodel/beforeLesson" />
       <recent name="C:\Users\jurec\WebstormProjects\HTML_BrushUp\advanceddesign\boxmodel" />
       <recent name="$PROJECT_DIR$/projects/rockPaperScissors" />
     </key>
@@ -176,12 +179,12 @@
       <workItem from="1547657570883" duration="1198000" />
       <workItem from="1548009337905" duration="758000" />
       <workItem from="1548010107701" duration="4277000" />
-      <workItem from="1548259456581" duration="2463000" />
+      <workItem from="1548259456581" duration="4044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15172000" />
+    <option name="totallyTimeSpent" value="16753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -288,6 +291,13 @@
     <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/diagram-verticalmargins.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/boxmodellesson.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -296,10 +306,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.css">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanceddesign/boxmodel/afterLesson/tahoe.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/changingBoxModel/website/website.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="145" selection-start-line="11" selection-start-column="145" selection-end-line="11" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/changingBoxModel/lesson.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="93" column="163" selection-start-line="93" selection-start-column="163" selection-end-line="93" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/display&amp;postining/flow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
