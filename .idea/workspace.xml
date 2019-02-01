@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920447b4-1e0e-4b55-b33e-73f6d68dc079" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediateJavascript/examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediateJavascript/lesson.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,13 +26,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flexafter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flexafter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="42" column="101" lean-forward="true" selection-start-line="42" selection-start-column="101" selection-end-line="42" selection-end-column="101" />
+            <state relative-caret-position="283">
+              <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intermediateJavascript/lesson.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="examples.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intermediateJavascript/examples.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="flexafter.css" pinned="false" current-in-tab="false">
@@ -51,9 +59,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -101,6 +109,7 @@
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" />
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css" />
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html" />
+        <option value="$PROJECT_DIR$/intermediateJavascript/examples.js" />
       </list>
     </option>
   </component>
@@ -138,20 +147,7 @@
             <path>
               <item name="HTML_BrushUp4" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_BrushUp4" type="462c0819:PsiDirectoryNode" />
-              <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_BrushUp4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_BrushUp4" type="462c0819:PsiDirectoryNode" />
-              <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
-              <item name="flexbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_BrushUp4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_BrushUp4" type="462c0819:PsiDirectoryNode" />
-              <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
-              <item name="flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="after" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediateJavascript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,12 +225,12 @@
       <workItem from="1548436341363" duration="7477000" />
       <workItem from="1548684745674" duration="9375000" />
       <workItem from="1548861785561" duration="1814000" />
-      <workItem from="1549039685292" duration="1397000" />
+      <workItem from="1549039685292" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43483000" />
+    <option name="totallyTimeSpent" value="43915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -547,10 +543,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="42" column="101" lean-forward="true" selection-start-line="42" selection-start-column="101" selection-end-line="42" selection-end-column="101" />
+        <state relative-caret-position="283">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/lesson.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/examples.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
