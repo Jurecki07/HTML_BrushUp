@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920447b4-1e0e-4b55-b33e-73f6d68dc079" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" afterDir="false" />
     </list>
@@ -17,11 +19,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/lesson.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="350" lean-forward="true" selection-start-line="350" selection-end-line="350" />
+            <state relative-caret-position="595">
+              <caret line="439" selection-start-line="439" selection-end-line="439" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flexafter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="42" column="101" lean-forward="true" selection-start-line="42" selection-start-column="101" selection-end-line="42" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flexafter.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
@@ -32,8 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,6 +99,8 @@
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/before/flex.css" />
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/before/flex.html" />
         <option value="$PROJECT_DIR$/advanceddesign/flexbox/lesson.html" />
+        <option value="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css" />
+        <option value="$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html" />
       </list>
     </option>
   </component>
@@ -123,6 +145,13 @@
               <item name="HTML_BrushUp4" type="462c0819:PsiDirectoryNode" />
               <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
               <item name="flexbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML_BrushUp4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML_BrushUp4" type="462c0819:PsiDirectoryNode" />
+              <item name="advanceddesign" type="462c0819:PsiDirectoryNode" />
+              <item name="flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="after" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,25 +229,25 @@
       <workItem from="1548436341363" duration="7477000" />
       <workItem from="1548684745674" duration="9375000" />
       <workItem from="1548861785561" duration="1814000" />
-      <workItem from="1549039685292" duration="655000" />
+      <workItem from="1549039685292" duration="1397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42741000" />
+    <option name="totallyTimeSpent" value="43483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.07775769" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.07775769" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32873276" />
       <window_info id="Structure" order="1" sideWeight="0.28050172" side_tool="true" weight="0.14948764" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.06882169" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.26381648" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -504,8 +533,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/lesson.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="350" lean-forward="true" selection-start-line="350" selection-end-line="350" />
+        <state relative-caret-position="595">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanceddesign/flexbox/after/flexafter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="42" column="101" lean-forward="true" selection-start-line="42" selection-start-column="101" selection-end-line="42" selection-end-column="101" />
         </state>
       </provider>
     </entry>
