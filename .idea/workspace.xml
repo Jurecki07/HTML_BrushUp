@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920447b4-1e0e-4b55-b33e-73f6d68dc079" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/intermediateJavascript/array/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediateJavascript/loops/loops.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,19 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/lesson.html">
+        <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1010">
-              <caret line="173" column="235" selection-start-line="173" selection-start-column="235" selection-end-line="173" selection-end-column="235" />
+            <state relative-caret-position="562">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/array.js">
+        <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="118" column="65" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
+            <state relative-caret-position="608">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -40,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,6 +94,8 @@
         <option value="$PROJECT_DIR$/intermediateJavascript/lesson.html" />
         <option value="$PROJECT_DIR$/intermediateJavascript/array/array.js" />
         <option value="$PROJECT_DIR$/intermediateJavascript/array/lesson.html" />
+        <option value="$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html" />
+        <option value="$PROJECT_DIR$/intermediateJavascript/loops/loops.js" />
       </list>
     </option>
   </component>
@@ -103,10 +106,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1513" />
-    <option name="y" value="67" />
-    <option name="width" value="1404" />
-    <option name="height" value="1276" />
+    <option name="x" value="1882" />
+    <option name="y" value="178" />
+    <option name="width" value="1849" />
+    <option name="height" value="1207" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,7 +133,7 @@
               <item name="HTML_BrushUp5" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_BrushUp5" type="462c0819:PsiDirectoryNode" />
               <item name="intermediateJavascript" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +215,12 @@
       <workItem from="1548684745674" duration="9375000" />
       <workItem from="1548861785561" duration="1814000" />
       <workItem from="1549039685292" duration="3322000" />
-      <workItem from="1549236024496" duration="10937000" />
+      <workItem from="1549236024496" duration="14738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56345000" />
+    <option name="totallyTimeSpent" value="60146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,10 +232,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1513" y="67" width="1404" height="1276" extended-state="0" />
+    <frame x="1882" y="178" width="1849" height="1207" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7194983" weight="0.15080526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.113197125" />
       <window_info id="Structure" order="1" sideWeight="0.28050172" side_tool="true" weight="0.14948764" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,32 +246,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294539" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" weight="0.29811996" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.3177481" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294539" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.15080526" />
-      <window_info id="Structure" order="1" sideWeight="0.28050172" side_tool="true" weight="0.14948764" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32855865" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294539" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.29811996" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294539" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -580,17 +564,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/array.js">
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/lesson.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="118" column="65" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
+        <state relative-caret-position="1598">
+          <caret line="193" column="87" selection-start-line="193" selection-start-column="87" selection-end-line="193" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/lesson.html">
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/array/array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1010">
-          <caret line="173" column="235" selection-start-line="173" selection-start-column="235" selection-end-line="173" selection-end-column="235" />
+        <state relative-caret-position="688">
+          <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
