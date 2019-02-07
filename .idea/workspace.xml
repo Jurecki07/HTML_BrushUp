@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="378">
+              <caret line="33" column="88" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -215,12 +215,12 @@
       <workItem from="1548684745674" duration="9375000" />
       <workItem from="1548861785561" duration="1814000" />
       <workItem from="1549039685292" duration="3322000" />
-      <workItem from="1549236024496" duration="14738000" />
+      <workItem from="1549236024496" duration="15314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60146000" />
+    <option name="totallyTimeSpent" value="60722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,9 +233,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1882" y="178" width="1849" height="1207" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.113197125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.113197125" />
       <window_info id="Structure" order="1" sideWeight="0.28050172" side_tool="true" weight="0.14948764" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,7 +245,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294539" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.3177481" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.3177481" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294539" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -581,14 +580,14 @@
     <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="378">
+          <caret line="33" column="88" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
         </state>
       </provider>
     </entry>
