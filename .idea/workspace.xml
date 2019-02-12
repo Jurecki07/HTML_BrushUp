@@ -21,8 +21,13 @@
       <file leaf-file-name="loops.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1407">
               <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
+=======
+            <state relative-caret-position="286">
+              <caret line="33" column="88" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
             </state>
           </provider>
         </entry>
@@ -30,8 +35,13 @@
       <file leaf-file-name="lessonloops.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="844">
               <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+=======
+            <state relative-caret-position="608">
+              <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
             </state>
           </provider>
         </entry>
@@ -116,10 +126,17 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="960" />
     <option name="y" value="23" />
     <option name="width" value="960" />
     <option name="height" value="1098" />
+=======
+    <option name="x" value="1598" />
+    <option name="y" value="178" />
+    <option name="width" value="1849" />
+    <option name="height" value="1207" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -221,13 +238,21 @@
       <workItem from="1548684745674" duration="9375000" />
       <workItem from="1548861785561" duration="1814000" />
       <workItem from="1549039685292" duration="3322000" />
+<<<<<<< HEAD
       <workItem from="1549236024496" duration="15314000" />
       <workItem from="1549562082032" duration="1972000" />
+=======
+      <workItem from="1549236024496" duration="17956000" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="62694000" />
+=======
+    <option name="totallyTimeSpent" value="63364000" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,6 +264,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="960" y="23" width="960" height="1098" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -248,12 +274,25 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294539" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32855865" />
+=======
+    <frame x="1598" y="178" width="1849" height="1207" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7194983" visible="true" weight="0.113197125" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
       <window_info id="Structure" order="1" sideWeight="0.28050172" side_tool="true" weight="0.14948764" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.03147208" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294539" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49942726" visible="true" weight="0.3177481" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294539" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50057274" side_tool="true" weight="0.24296057" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -598,15 +637,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/lessonloops.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="844">
           <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+=======
+        <state relative-caret-position="608">
+          <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intermediateJavascript/loops/loops.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1407">
           <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
+=======
+        <state relative-caret-position="286">
+          <caret line="33" column="88" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
+>>>>>>> d886f954b8f6063a0777705903ecf093add74b08
         </state>
       </provider>
     </entry>
