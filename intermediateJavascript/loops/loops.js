@@ -144,6 +144,36 @@ const longFavoriteWords = favoriteWords.filter( words => {
 
 ////////////////////////////////////////////////////////////////////////////////////////
 
+// Using the .findIndex() Method
+
+// Array of nums set to jumbledNums
+
+const jumbledNums = [123, 25, 78, 5, 9];
+
+//lessThanTen varaible stores the returned method
+//num is the single argument that stores the array elements
+const lessThanTen = jumbledNums.findIndex(num => {
+    return num < 10;
+});
+
+//Invoke .findIndex() on the the animals array to find the index of the element that has the value 'elephant'
+// and save the returned value to a const variable named foundAnimal.
+const animals = ['hippo', 'tiger', 'lion', 'seal', 'cheetah', 'monkey', 'salamander', 'elephant'];
+
+const foundAnimal = animals.findIndex(animal => {
+    return animal === 'elephant';
+});
+
+//Let's see if we can find the index of the first animal that starts with the letter 's'.
+// Call .findIndex() on the animals array return the index of the first element that starts with 's'.
+// Assign the returned value to a const variable named startsWithS.
+
+const animals = ['hippo', 'tiger', 'lion', 'seal', 'cheetah', 'monkey', 'salamander', 'elephant'];
+const startsWithS = animals.findIndex(animal => {
+    return animal[0] === 's' ? true : false;
+});
+
+
 
 
 
