@@ -160,3 +160,54 @@ console.log(secondMessage)
 
 /////////////////////////////////////////////////////////
 
+ITERATORS
+The .filter() Method
+Another useful iterator method is .filter(). Like .map(), .filter() returns a new array. However, .filter() returns an array of elements after filtering out certain elements from the original array. The callback function for the .filter() method should return true or false depending on the element that is passed to it. The elements that cause the callback function to return true are added to the new array. Take a look at the following example:
+
+const words = ['chair', 'music', 'pillow', 'brick', 'pen', 'door'];
+
+const shortWords = words.filter(word => {
+return word.length < 6;
+});
+words is an array that contains string elements.
+const shortWords = declares a new variable that will store the returned array from invoking .filter().
+The callback function is an arrow function has a single parameter, word. Each element in the words array will be passed to this function as an argument.
+word.length < 6; is the condition in the callback function. Any word from the words array that has fewer than 6 characters will be added to the shortWords array.
+Let's also check the values of words and shortWords:
+
+console.log(words); // Output: ['chair', 'music', 'pillow', 'brick', 'pen', 'door'];
+console.log(shortWords); // Output: ['chair', 'music', 'brick', 'pen', 'door']
+Observe how words was not mutated, i.e. changed, and shortWords is a new array.
+
+//////////////////////////////////////////////////////////////////
+
+The .findIndex() Method
+We sometimes want to find the location of an element in an array. That's where the .findIndex() method comes in! Calling .findIndex() on an array will return the index of the first element that evaluates to true in the callback function.
+
+const jumbledNums = [123, 25, 78, 5, 9];
+
+const lessThanTen = jumbledNums.findIndex(num => {
+return num < 10;
+});
+jumbledNums is an array that contains elements that are numbers.
+const lessThanTen = declares a new variable that stores the returned index number from invoking .findIndex().
+The callback function is an arrow function has a single parameter, num. Each element in the jumbledNums array will be passed to this function as an argument.
+num < 10; is the condition that elements are checked against. .findIndex() will return the index of the first element which evaluates to true for that condition.
+Let's take a look at what lessThanTen evaluates to:
+
+console.log(lessThanTen); // Output: 3
+If we check what element has index of 3:
+
+console.log(jumbledNums[3]); // Output: 5
+Great, the element in index 3 is the number 5. This makes sense since 5 is the first element that is less than 10.
+
+If there isn't a single element in the array that satisfies the condition in the callback, then .findIndex() will return -1.
+
+const greaterThan1000 = jumbledNums.findIndex(num => {
+return num > 1000;
+});
+
+console.log(greaterThan1000); // Output: -1
+
+
+
